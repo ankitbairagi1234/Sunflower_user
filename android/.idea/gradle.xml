@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Downloads/house_of_kala_User_latest/House_Of_Kala_User/android" />
+        <option name="gradleJvm" value="11" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095038459785",
+    "project_id": "reko-5376c",
+    "storage_bucket": "reko-5376c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095038459785:android:32368eedba7e2782e94b58",
+        "android_client_info": {
+          "package_name": "com.sunflower.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095038459785-dmrt2a7caido85v2b6p1vs37u9ee6vv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunflower.user",
+            "certificate_hash": "3d73583ef7da3fa127cde40d2a5124520ff792b0"
+          }
+        },
+        {
+          "client_id": "1095038459785-820ovok0lsa38uj5a80iuat60vvdmu0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCXeqq3LChOFFLwr6CgLIPesgexru10c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095038459785-820ovok0lsa38uj5a80iuat60vvdmu0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
